@@ -20,7 +20,7 @@ const WorkCard = ({ img, name, description, onClick }) => {
                 {name ? name : "Project Name"}
             </h1>
             <h2 className="text-xl opacity-50">
-                {description ? description : "Description"}
+                {description ? description : "Descripción"}
             </h2>
         </div>
     );

@@ -32,10 +32,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                             {!isBlog ? (
                                 <div className="grid grid-cols-1">
                                     <Button onClick={handleWorkScroll}>
-                                        Work
+                                        Mi Chamba
                                     </Button>
                                     <Button onClick={handleAboutScroll}>
-                                        About
+                                       Pues la neta
                                     </Button>
                                     {data.showBlog && (
                                         <Button
@@ -47,11 +47,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                     <Button
                                         onClick={() =>
                                             window.open(
-                                                "mailto:hello@chetanverma.com"
+                                                "mailto:mkt.allan@gmail.com"
                                             )
                                         }
                                     >
-                                        Contact
+                                        Contacto
                                     </Button>
                                 </div>
                             ) : (
@@ -60,7 +60,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                         onClick={() => router.push("/")}
                                         classes="first:ml-1"
                                     >
-                                        Home
+                                        Hola
                                     </Button>
                                     {data.showBlog && (
                                         <Button
@@ -72,11 +72,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                     <Button
                                         onClick={() =>
                                             window.open(
-                                                "mailto:hello@chetanverma.com"
+                                                "mailto:mkt.allan@gmail.com",
                                             )
                                         }
                                     >
-                                        Contact
+                                        Contacto
                                     </Button>
                                 </div>
                             )}
@@ -93,19 +93,19 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 </h1>
                 {!isBlog ? (
                     <div className="flex">
-                        <Button onClick={handleWorkScroll}>Work</Button>
-                        <Button onClick={handleAboutScroll}>About</Button>
+                        <Button onClick={handleWorkScroll}>Portafolio</Button>
+                        <Button onClick={handleAboutScroll}>Pues la neta...</Button>
                         {data.showBlog && (
-                            <Button onClick={() => router.push("/blog")}>
+                            <Button onClick={() => router.push("/Blog")}>
                                 Blog
                             </Button>
                         )}
                         <Button
                             onClick={() =>
-                                window.open("mailto:hello@chetanverma.com")
+                                window.open("mailto:mkt.allan@gmail.com")
                             }
                         >
-                            Contact
+                            Contacto
                         </Button>
                     </div>
                 ) : (
@@ -118,10 +118,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                         )}
                         <Button
                             onClick={() =>
-                                window.open("mailto:hello@chetanverma.com")
+                                window.open("mailto:mkt.allan@gmail.com")
                             }
                         >
-                            Contact
+                            Contacto
                         </Button>
                     </div>
                 )}
