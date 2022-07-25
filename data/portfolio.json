@@ -1,61 +1,51 @@
 {
   "name": "Alan",
   "headerTaglineOne": "Hola 👋",
-  "headerTaglineTwo": "Soy Alan De León - lead marketing digital",
-  "headerTaglineThree": "& fotógrafo",
-  "headerTaglineFour": "capturando en Guadalajara, Jalisco.",
+  "headerTaglineTwo": "Soy Alan De León - marketing digital",
+  "headerTaglineThree": "& fotografía",
+  "headerTaglineFour": "capturando en Guadalajara, Jalisco. 🇲🇽",
   "showBlog": true,
   "socials": [
-    { "title": "Github", "link": "https://github.com/chetanverma16" },
     {
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "title": "Instagram",
+      "link": "https://www.instagram.com/alan._dl/?utm_source=qr"
     },
-    { "title": "Twitter", "link": "https://twitter.com/realchetanverma" },
-    { "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "title": "Email", "link": "mailto:mkt.alann@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
+      "title": "Sesiones de fotos 1 a 1.",
+      "description": "Sesión de fotos con la temática y el vestuario que tú decidas, Al final de la misma te entregaré una memoria con todas las fotos de la sesión para que tú las edites de la manera en la que creas correcta. No me quedo con ningún archivo sin tu consentimiento.",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
+      "title": "Eventos.",
+      "description": "Voy y cubro tu evento de la índole que sea, en la que capturaré los momentos más icónicos del mismo.",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
+      "title": "Edición de fotos.",
+      "description": "Mándame tus fotos y las edito con un toque profesional.",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
+      "title": "Marketing.",
+      "description": "Sesiones de marketing en las que te enseñaré como darle una vista diferente a tus redes sociales y con ello obtener más interacciones.",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
+      "title": "Community manager.",
+      "description": "Llevo tus redes sociales al otro nivel, ya sea profesional o de ocio. ",
       "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     }
   ],
@@ -63,27 +53,27 @@
     {
       "id": "1",
       "title": "Sesiones de fotos 1 a 1.",
-      "description": ""
+      "description": "Sesión de fotos con la temática y el vestuario que tú decidas, Al final de la misma te entregaré una memoria con todas las fotos de la sesión para que tú las edites de la manera en la que creas correcta. No me quedo con ningún archivo sin tu consentimiento."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Eventos.",
+      "description": "Voy y cubro tu evento de la índole que sea, en la que capturaré los momentos más icónicos del mismo"
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "Edición de fotos.",
+      "description": "Mándame tus fotos y las edito con un toque profesional."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Marketing.",
+      "description": "Sesiones de marketing en las que te enseñaré como darle una vista diferente a tus redes sociales y con ello obtener más interacciones"
     },
     {
       "id": "05f6299a-ebed-4bc2-b5ab-584ebd8787cc",
-      "title": "New Service",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+      "title": "Community manager.",
+      "description": "Llevo tus redes sociales al otro nivel, ya sea profesional o de ocio.  "
     }
   ],
   "aboutpara": "Soy un fotógrafo regiomontano que gusta de capturar la esencia de las personas y las cosas en su estado más natural. Todos en cuanto sentimos una cámara enfrente o que no está capturando, ocultamos nuestro verdadero yo y enseñamos una parte de nosotros que no somos, sonríe y muestra tu lado más natural a la cámara. La vida es una y esa se escapa en un segundo, vívela de la mejor manera, pero sobre todo, se feliz."

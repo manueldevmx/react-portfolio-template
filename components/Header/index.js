@@ -32,14 +32,14 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                             {!isBlog ? (
                                 <div className="grid grid-cols-1">
                                     <Button onClick={handleWorkScroll}>
-                                        Work
+                                        Mi chamba
                                     </Button>
                                     <Button onClick={handleAboutScroll}>
-                                        About
+                                       Acerca de mí
                                     </Button>
                                     {data.showBlog && (
                                         <Button
-                                            onClick={() => router.push("/blog")}
+                                            onClick={() => router.push("/images")}
                                         >
                                             Blog
                                         </Button>
