@@ -51,7 +51,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                             )
                                         }
                                     >
-                                        Contact
+                                        Contacto
                                     </Button>
                                 </div>
                             ) : (
@@ -72,11 +72,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                     <Button
                                         onClick={() =>
                                             window.open(
-                                                "mailto:hello@chetanverma.com"
+                                                "mailto:mkt.alann@gmail.com"
                                             )
                                         }
                                     >
-                                        Contact
+                                        Contacto
                                     </Button>
                                 </div>
                             )}
